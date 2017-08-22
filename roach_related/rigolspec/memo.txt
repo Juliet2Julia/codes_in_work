@@ -1,0 +1,26 @@
+1,rigol settings:
+	IP: 10.37.127.111
+	Subnet Mask:255.255.128.0
+	Gateway:10.37.0.1
+	DNS:(8.8.8.8)/10.0.0.1
+
+2,PDVR天线监控系统:
+	IP:10.37.127.12
+	Subnet Mask:255.255.128.0
+	Gateway:10.37.0.1
+	DNS:8.8.8.8
+
+3,Ubantu天线控制软件：
+	IP：10.37.127.11
+	Subnet Mask:255.255.128.0
+	Gateway:10.37.0.1
+	DNS:8.8.8.8
+
+4,Zhx_PC:
+	IP:10.37.127.33
+	Subnet Mask:255.255.128.0
+	Gateway:10.37.0.1
+	DNS:8.8.8.8
+
+5，	TCPIP采用大端big endian 存储数据，网络基本都是big endian。
+	PowerPC系列采用big endian方式存储数据，而x86系列则采用little endian方式存储数据。

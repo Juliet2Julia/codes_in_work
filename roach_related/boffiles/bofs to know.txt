@@ -1,0 +1,9 @@
+1 ##model:px4d1k_iadc.mdl,by zhx£¬using IADC
+
+bitstream='px4d1k_iadc_2016_Jan_14_1534.bof.gz'       
+===================================================
+
+2  ##model:px8d1k_1g.slx,by zy£¬using 5G sps ADC
+
+bitstream='px8d1k_1g_2015_May_14_2221.bof.gz'          
+===================================================

@@ -1,0 +1,17 @@
+To use git repository:
+
+git clone 10.32.0.6:/srv/git/specrecv.git
+    or git clone /srv/git/specrecv.git if on same machine
+git checkout --track  origin/toolflow14
+
+
+GBT
+ANT_X   =            882589.65 / [m] Antenna ITRF X-coordinate (D)              
+ANT_Y   =          -4924872.32 / [m] Antenna ITRF Y-coordinate (D)              
+ANT_Z   =          3943729.348 / [m] Antenna ITRF Z-coordinate (D)              
+
+YNAO
+ANT_X   = -1281152.8016        / [m] Antenna ITRF X-coordinate (D)
+ANT_Y   = 5640863.4199         / [m] Antenna ITRF Y-coordinate (D)
+ANT_Z   = 2682653.5123         / [m] Antenna ITRF Z-coordinate (D)
+
